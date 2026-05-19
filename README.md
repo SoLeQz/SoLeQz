@@ -84,11 +84,10 @@ NGINX + WordPress + MariaDB orchestrés via docker-compose. Volumes, réseaux et
 <tr>
 <td width="50%" valign="top">
 
-### 💬 mini chat server
-Serveur de chat **TCP** multi-clients en **C** non-bloquant.
-`select()`, broadcast et messages privés, gestion mémoire stricte aux normes 42.
-
-`C` · `select()` · `non-blocking I/O`
+🗝️ so_long
+Petit jeu 2D en C avec la MLX.
+Map en .ber, gestion des collisions, collecte d'objets, sortie déclenchée à la fin et compteur de mouvements.
+C · MLX · 2D game · parsing
 
 </td>
 <td width="50%" valign="top">
@@ -112,8 +111,12 @@ Parcours **OOP en C++98** : forme canonique (Coplien), exceptions, casts (`stati
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Exam rank06
-Exercices de rang : `bsq` (plus grand carré), `life` (Game of Life), et un mini web server `select()`-based.
+🎮 cub3D
+Moteur de raycasting en C inspiré de Wolfenstein 3D.
+Rendu d'un environnement 3D depuis une map 2D via MLX, gestion des textures, sprites et collisions.
+C · raycasting · MLX · graphics
+</td>
+<td width="50%" valign="top">
 
 `C` · `DP` · `select()` · `algorithmes`
 
