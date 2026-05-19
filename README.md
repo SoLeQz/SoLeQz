@@ -1,20 +1,21 @@
-<div align="center">
+<!-- BANNIÈRE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SoLeQz/SoLeQz/main/banner.svg" alt="SoLeQz banner" width="100%"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=SoLeQz&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=42%20student%20·%20low-level%20%26%20systems&descAlignY=60&descSize=18" width="100%"/>
+<p align="center">
+  <a href="https://github.com/SoLeQz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Étudiant+à+l'École+42;Passionné+de+C+%2F+C%2B%2B+%2F+systèmes;Curieux+du+bas+niveau+et+des+protocoles;Toujours+en+train+d'apprendre" alt="Typing SVG"/></a>
+</p>
 
-<a href="https://github.com/SoLeQz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Étudiant+à+l'École+42;Passionné+de+C+%2F+C%2B%2B+%2F+systèmes;Curieux+du+bas+niveau+et+des+protocoles;Toujours+en+train+d'apprendre" alt="Typing SVG"/></a>
-
-<br/>
-
-[![Profile](https://img.shields.io/badge/42-nicleena-000000?style=for-the-badge&logoColor=white)](https://github.com/SoLeQz)
-[![GitHub](https://img.shields.io/badge/SoLeQz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoLeQz)
-![Status](https://img.shields.io/badge/Status-Learning_%26_Building-A78BFA?style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/42-nicleena-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SoLeQz-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-A78BFA?style=for-the-badge" />
+</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> À propos
+## 👋 À propos
 
 ```yaml
 nom:        Nini
@@ -28,7 +29,7 @@ mantra:     "comprendre avant d'utiliser"
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Stack
+## 🛠️ Stack
 
 <div align="center">
 
@@ -57,7 +58,7 @@ mantra:     "comprendre avant d'utiliser"
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Projets phares
+## 🚀 Projets phares
 
 <table>
 <tr>
@@ -122,20 +123,18 @@ Exercices de rang : `bsq` (plus grand carré), `life` (Game of Life), et un mini
 
 ---
 
-## <img src="https://media.giphy.com/media/dpjUltnOPye7azvAhH/giphy.gif" width="28"> Stats
+## 📊 Stats
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=SoLeQz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=A78BFA"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoLeQz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=A78BFA"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SoLeQz&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="80%"/>
-
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Parcours 42
+## 🎯 Parcours 42
 
 ```
 [██████████] Piscine C        ✓
@@ -152,8 +151,6 @@ Exercices de rang : `bsq` (plus grand carré), `life` (Game of Life), et un mini
 
 <div align="center">
 
-### 💭 *"L'art de programmer est l'art d'organiser la complexité."* — Dijkstra
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
+### 💭 *« L'art de programmer est l'art d'organiser la complexité. »* — Dijkstra
 
 </div>
