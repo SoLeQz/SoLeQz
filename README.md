@@ -123,34 +123,23 @@ Exercices de rang : `bsq` (plus grand carré), `life` (Game of Life), et un mini
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SoLeQz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=A78BFA"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoLeQz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=A78BFA"/>
-
-</div>
-
----
-
 ## 🎯 Parcours 42
 
 ```
 [██████████] Piscine C        ✓
 [██████████] libft            ✓
 [██████████] CPP 00 → 06      ✓
-[████████░░] CPP 07 → 09      en cours
+[██████████] CPP 07 → 09      ✓
 [██████████] Inception        ✓
 [██████████] webserv          ✓
-[████████░░] Exam rank06      en cours
-[░░░░░░░░░░] next milestone   à venir
+[████████░░] Exam rank06     en cours
+[░░░░░░░░░░] ft_transcendance  en cours
 ```
 
 ---
 
 <div align="center">
 
-### 💭 *« L'art de programmer est l'art d'organiser la complexité. »* — Dijkstra
+
 
 </div>
