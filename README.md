@@ -58,72 +58,44 @@ mantra:     "comprendre avant d'utiliser"
 
 ---
 
-## 🚀 Projets phares
-
+🚀 Projets phares
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 webserv
-Serveur **HTTP/1.1** from scratch en **C++98**.
-Event loop `poll()`, exécution CGI via `fork`/`execve`, virtual hosts, keep-alive, autoindex, location matching.
-
-`C++98` · `poll()` · `HTTP/1.1` · `CGI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🐳 Inception
-Infrastructure **Docker** multi-services sur VM Debian.
-NGINX + WordPress + MariaDB orchestrés via docker-compose. Volumes, réseaux et TLS auto-signé.
-
-`Docker` · `NGINX` · `WordPress` · `MariaDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-🗝️ so_long
-Petit jeu 2D en C avec la MLX.
-Map en .ber, gestion des collisions, collecte d'objets, sortie déclenchée à la fin et compteur de mouvements.
-C · MLX · 2D game · parsing
-`C +MLX` · `2D game` · `parsing`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎰 slot machine
-Simulation de **machine à sous** en **C++/SFML**.
-Projet graphique perso, build Windows via WSL.
-
-`C++` · `SFML` · `WSL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 CPP modules (00 → 09)
-Parcours **OOP en C++98** : forme canonique (Coplien), exceptions, casts (`static_cast`, `dynamic_cast`...), templates, STL containers.
-
-`C++98` · `OOP` · `STL` · `templates`
-
-</td>
-<td width="50%" valign="top">
-
-🎮 cub3D
-Moteur de raycasting en C inspiré de Wolfenstein 3D.
-Rendu d'un environnement 3D depuis une map 2D via MLX, gestion des textures, sprites et collisions.
-C · raycasting · MLX · graphics
-
-`C` · `DP` · `select()` · `algorithmes`
-
-
-</td>
-<td width="50%" valign="top">
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 webserv</h3>
+      <p>Serveur <b>HTTP/1.1</b> from scratch en <b>C++98</b>. Event loop <code>poll()</code>, exécution CGI via <code>fork</code>/<code>execve</code>, virtual hosts, keep-alive, autoindex, location matching.</p>
+      <p><code>C++98</code> · <code>poll()</code> · <code>HTTP/1.1</code> · <code>CGI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐳 Inception</h3>
+      <p>Infrastructure <b>Docker</b> multi-services sur VM Debian. NGINX + WordPress + MariaDB orchestrés via docker-compose. Volumes, réseaux et TLS auto-signé.</p>
+      <p><code>Docker</code> · <code>NGINX</code> · <code>WordPress</code> · <code>MariaDB</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 cub3D</h3>
+      <p>Moteur de <b>raycasting</b> en <b>C</b> inspiré de Wolfenstein 3D. Rendu d'un environnement 3D depuis une map 2D via MLX, gestion des textures, sprites et collisions.</p>
+      <p><code>C</code> · <code>raycasting</code> · <code>MLX</code> · <code>graphics</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎰 slot machine</h3>
+      <p>Simulation de <b>machine à sous</b> en <b>C++/SFML</b>. Projet graphique perso, build Windows via WSL.</p>
+      <p><code>C++</code> · <code>SFML</code> · <code>WSL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 CPP modules (00 → 09)</h3>
+      <p>Parcours <b>OOP en C++98</b> : forme canonique (Coplien), exceptions, casts (<code>static_cast</code>, <code>dynamic_cast</code>...), templates, STL containers.</p>
+      <p><code>C++98</code> · <code>OOP</code> · <code>STL</code> · <code>templates</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗝️ so_long</h3>
+      <p>Petit <b>jeu 2D</b> en <b>C</b> avec la <b>MLX</b>. Map en <code>.ber</code>, gestion des collisions, collecte d'objets, sortie déclenchée à la fin et compteur de mouvements.</p>
+      <p><code>C</code> · <code>MLX</code> · <code>2D game</code> · <code>parsing</code></p>
+    </td>
+  </tr>
 </table>
 
 ---
