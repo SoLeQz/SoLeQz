@@ -18,7 +18,7 @@
 ## 👋 À propos
 
 ```yaml
-nom:        Nini
+nom:        Leenaerts Nicolas
 école:      42
 login:      nicleena
 focus:      systèmes · réseaux · C/C++
