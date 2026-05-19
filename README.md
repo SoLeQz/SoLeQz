@@ -115,11 +115,11 @@ Parcours **OOP en C++98** : forme canonique (Coplien), exceptions, casts (`stati
 Moteur de raycasting en C inspiré de Wolfenstein 3D.
 Rendu d'un environnement 3D depuis une map 2D via MLX, gestion des textures, sprites et collisions.
 C · raycasting · MLX · graphics
-</td>
-<td width="50%" valign="top">
-
 `C` · `DP` · `select()` · `algorithmes`
 
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
