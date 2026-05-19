@@ -88,6 +88,7 @@ NGINX + WordPress + MariaDB orchestrés via docker-compose. Volumes, réseaux et
 Petit jeu 2D en C avec la MLX.
 Map en .ber, gestion des collisions, collecte d'objets, sortie déclenchée à la fin et compteur de mouvements.
 C · MLX · 2D game · parsing
+`C +MLX` · `2D game` · `parsing`
 
 </td>
 <td width="50%" valign="top">
@@ -115,6 +116,7 @@ Parcours **OOP en C++98** : forme canonique (Coplien), exceptions, casts (`stati
 Moteur de raycasting en C inspiré de Wolfenstein 3D.
 Rendu d'un environnement 3D depuis une map 2D via MLX, gestion des textures, sprites et collisions.
 C · raycasting · MLX · graphics
+
 `C` · `DP` · `select()` · `algorithmes`
 
 
