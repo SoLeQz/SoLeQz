@@ -27,8 +27,8 @@ mécanismes depuis zéro avant de s'appuyer sur des abstractions.
 |---|---|
 | **École** | 42 — Common Core terminé |
 | **Login** | `nicleena` |
-| **Domaines** | Systèmes · Réseaux · C/C++ |
-| **Intérêts** | Programmation bas niveau, protocoles, conteneurisation |
+| **Domaines** | Systèmes · Réseaux · Sécurité applicative · C/C++ |
+| **Intérêts** | Programmation bas niveau, protocoles, conteneurisation, authentification |
 | **En cours** | Approfondissement C++ moderne (STL, templates, design patterns) |
 
 ---
@@ -57,6 +57,7 @@ mécanismes depuis zéro avant de s'appuyer sur des abstractions.
 ![Networking](https://img.shields.io/badge/Networking-1E90FF?style=flat-square)
 ![Systems](https://img.shields.io/badge/Systems-FF6B6B?style=flat-square)
 ![OOP](https://img.shields.io/badge/OOP-8B5CF6?style=flat-square)
+![Security](https://img.shields.io/badge/Security-DC2626?style=flat-square)
 ![Containers](https://img.shields.io/badge/Containers-0DB7ED?style=flat-square)
 
 ---
@@ -71,9 +72,10 @@ mécanismes depuis zéro avant de s'appuyer sur des abstractions.
       <p><code>C++98</code> · <code>poll()</code> · <code>HTTP/1.1</code> · <code>CGI</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>ft_transcendence</h3>
-      <p>Application web temps réel clôturant le Common Core : jeu multijoueur en ligne, authentification, gestion des utilisateurs et déploiement conteneurisé.</p>
-      <p><code>web</code> · <code>temps réel</code> · <code>Docker</code></p>
+      <h3>Saveboxd — <a href="https://saveboxd.com">saveboxd.com</a></h3>
+      <p>Projet final du Common Core (<b>ft_transcendence</b>) : plateforme sociale de suivi et de notation de <b>jeux vidéo</b>, dans l'esprit de Letterboxd. Développée en équipe et déployée en production.</p>
+      <p><b>Mon rôle :</b> sécurité applicative et parcours d'inscription — création de comptes, validation des données et protection des accès.</p>
+      <p><code>web</code> · <code>sécurité</code> · <code>authentification</code> · <code>Docker</code></p>
     </td>
   </tr>
   <tr>
